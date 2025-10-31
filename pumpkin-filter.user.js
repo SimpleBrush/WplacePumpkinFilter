@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         떱플 아카이브 호박 필터
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  수집된 호박들 필터링해줌
 // @author       SimpleBrush
 // @match        https://wplace.samuelscheit.com/*
-// @updateURL    https://raw.githubusercontent.com/SimpleBrush/WplacePumpkinFilter/main/pumpkin-filter.user.js
-// @downloadURL  https://raw.githubusercontent.com/SimpleBrush/WplacePumpkinFilter/main/pumpkin-filter.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/SimpleBrush/WplacePumpkinFilter@main/pumpkin-filter.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/SimpleBrush/WplacePumpkinFilter@main/pumpkin-filter.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
